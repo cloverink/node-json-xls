@@ -1,0 +1,7 @@
+{
+  "name": "node-json-xls",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "cloverink <cloverink@gmail.com>",
+  "license": "MIT"
+}
